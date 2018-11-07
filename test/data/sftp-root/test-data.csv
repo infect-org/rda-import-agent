@@ -1,0 +1,1000 @@
+REGION_DESCRIPTION,sample type,type of origin,age-group,microorganism,ABCLS_ACRONYM,AB_NAME,DELIVERED_QUALITATIVE_RES,DAY_DAY
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,08.12.2017
+"Switzerland West",urine,outpatient,45-64,"Escherichia coli","amglyc","Gentamicin",s,16.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","quinolones","Levofloxacin",s,07.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,20.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Citrobacter koseri","blac+inh","Piperacillin-tazobactam",s,20.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella aerogenes","blac+inh","Amoxicillin-clavulanic acid",r,09.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","fosmyc","Fosfomycin",s,20.12.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",r,07.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,01.12.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,23.11.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,20.12.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","ceph4","Cefepime",s,28.11.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,20.11.2017
+"Switzerland South",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,14.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Proteus mirabilis","folinh","Cotrimoxazole",s,11.12.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Pseudomonas aeruginosa","quinolones","Ciprofloxacin",s,08.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Meropenem",s,27.11.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","tetcyc","Doxycycline",s,11.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,27.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,18.11.2017
+"Switzerland Central-West",blood,inpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,07.12.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","quinolones","Levofloxacin",r,27.11.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","aminopen","Amoxicillin",s,04.12.2017
+"Switzerland East",urine,outpatient,>=65,"Citrobacter koseri","blac+inh","Piperacillin-tazobactam",s,27.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,19.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,09.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","tetcyc","Doxycycline",s,01.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","aminopen","Amoxicillin",s,06.12.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,17.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Meropenem",s,18.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,27.11.2017
+"Switzerland Nord-East",urine,inpatient,15-44,"Klebsiella pneumoniae","blac+inh","Amoxicillin-clavulanic acid",s,07.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Pseudomonas aeruginosa","amglyc","Tobramycin",s,04.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",r,13.11.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,01.12.2017
+"Switzerland West",urine,outpatient,15-44,"Escherichia coli","ceph4","Cefepime",s,13.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,16.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Imipenem",s,01.12.2017
+"Switzerland North-West",other,outpatient,45-64,"Citrobacter non koseri","capenem","Meropenem",s,21.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,13.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Klebsiella pneumoniae","blac+inh","Amoxicillin-clavulanic acid",s,07.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Proteus mirabilis","capenem","Meropenem",s,15.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",r,13.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,21.11.2017
+"Switzerland Nord-East",other,inpatient,15-44,"Escherichia coli","folinh","Cotrimoxazole",s,06.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",r,15.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,04.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,09.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","ceph2","Cefoxitin",r,12.12.2017
+"Switzerland East",blood,inpatient,>=65,"Escherichia coli","capenem","Imipenem",s,19.12.2017
+"Switzerland Central-West",other,inpatient,45-64,"Enterococcus faecalis","amglyc","Gentamicin HLAR",s,16.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,23.12.2017
+"Switzerland Geneve area",urine,outpatient,45-64,"Enterococcus faecalis","quinolones","Levofloxacin",s,13.12.2017
+"Switzerland East",urine,inpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,21.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","ceph4","Cefepime",s,07.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,08.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Klebsiella pneumoniae","ceph2","Cefoxitin",s,18.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,27.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,11.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Citrobacter koseri","blac+inh","Amoxicillin-clavulanic acid",s,12.11.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Citrobacter koseri","tetcyc","Doxycycline",s,29.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,28.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Pseudomonas aeruginosa","amglyc","Gentamicin",s,08.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Proteus mirabilis","ceph4","Cefepime",s,09.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",s,12.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,14.12.2017
+"Switzerland North-West",urine,inpatient,>=65,"Klebsiella pneumoniae","ceph3","Ceftazidime",s,20.11.2017
+"Switzerland Nord-East",blood,inpatient,45-64,"Streptococcus pyogenes (=group A)","linami","Clindamycin",s,21.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Enterococcus faecalis","maclid","Clarithromycin",r,11.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,24.11.2017
+"Switzerland East",urine,outpatient,>=65,"Citrobacter koseri","ceph3","Cefotaxime",s,14.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,16.12.2017
+"Switzerland Central-West",other,outpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,06.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,21.11.2017
+"Switzerland East",urine,outpatient,15-44,"Enterococcus faecalis","quinolones","Moxifloxacin",s,17.11.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","ceph3","Ceftazidime",s,30.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,08.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,21.11.2017
+"Switzerland East",other,inpatient,>=65,"Enterococcus faecalis","tetcyc","Tigecyclin",s,07.11.2017
+"Switzerland West",urine,outpatient,45-64,"Escherichia coli","amglyc","Gentamicin",s,29.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Citrobacter koseri","capenem","Imipenem",s,28.11.2017
+"Switzerland Central-West",urine,inpatient,45-64,"Pseudomonas aeruginosa","quinolones","Levofloxacin",r,26.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","capenem","Ertapenem",s,21.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Proteus mirabilis","amglyc","Amikacin",s,09.12.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,09.12.2017
+"Switzerland Central-West",urine,inpatient,45-64,"Klebsiella pneumoniae","nitfur","Nitrofurantoin",r,20.12.2017
+"Switzerland South",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,12.12.2017
+"Switzerland Nord-East",other,inpatient,15-44,"Achromobacter spp.","folinh","Cotrimoxazole",s,27.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,01.12.2017
+"Switzerland South",other,outpatient,15-44,"Streptococcus agalactiae (=group B)","glypep","Vancomycin",s,23.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Citrobacter koseri","capenem","Ertapenem",s,01.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,21.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,12.12.2017
+"Switzerland East",urine,outpatient,>=65,"Klebsiella aerogenes","capenem","Ertapenem",s,14.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,21.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Enterococcus faecalis","maclid","Erythromycin",r,19.12.2017
+"Switzerland East",urine,outpatient,15-44,"Enterococcus faecalis","aminopen","Amoxicillin",s,13.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,01.12.2017
+"Switzerland North-West",other,outpatient,15-44,"Klebsiella oxytoca","folinh","Cotrimoxazole",s,14.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Proteus mirabilis","quinolones","Norfloxacin",s,22.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Proteus mirabilis","blac+inh","Piperacillin-tazobactam",s,07.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Meropenem",s,16.11.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","fosmyc","Fosfomycin",s,05.12.2017
+"Switzerland Central-West",other,inpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,19.12.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,06.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,04.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Klebsiella pneumoniae","quinolones","Norfloxacin",s,20.12.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,15.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Enterococcus faecium","quinolones","Levofloxacin",s,18.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella aerogenes","capenem","Ertapenem",s,22.12.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,15.11.2017
+"Switzerland Nord-East",blood,outpatient,>=65,"Streptococcus group viridans","linami","Clindamycin",s,13.11.2017
+"Switzerland South",urine,outpatient,>=65,"Morganella morganii","folinh","Cotrimoxazole",s,22.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Klebsiella pneumoniae","amglyc","Amikacin",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","ceph3","Ceftazidime",s,10.11.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,22.11.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","capenem","Ertapenem",s,12.12.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,27.11.2017
+"Switzerland Nord-East",other,inpatient,15-44,"Escherichia coli","ceph4","Cefepime",s,09.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",r,09.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,29.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,22.12.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,07.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","ceph2","Cefoxitin",s,07.11.2017
+"Switzerland South",urine,outpatient,>=65,"Citrobacter non koseri","quinolones","Levofloxacin",s,17.11.2017
+"Switzerland Nord-East",urine,inpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,08.11.2017
+"Switzerland Central-West",urine,outpatient,<15,"Proteus mirabilis","nitfur","Nitrofurantoin",r,06.12.2017
+"Switzerland East",urine,outpatient,>=65,"Morganella morganii","ceph3","Cefotaxime",s,18.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","ceph2","Cefoxitin",s,11.11.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","fosmyc","Fosfomycin",s,21.11.2017
+"Switzerland Nord-East",other,inpatient,45-64,"Pseudomonas aeruginosa","amglyc","Gentamicin",s,10.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,13.11.2017
+"Switzerland Central-West",urine,inpatient,45-64,"Escherichia coli","capenem","Ertapenem",s,26.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,24.11.2017
+"Switzerland West",urine,outpatient,15-44,"Escherichia coli","ceph2","Cefoxitin",s,15.11.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,06.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","aminopen","Amoxicillin",s,13.12.2017
+"Switzerland South",other,outpatient,15-44,"Streptococcus agalactiae (=group B)","stabpen","Antistaphylococcal Penicillins",s,23.11.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","quinolones","Ciprofloxacin",s,18.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,20.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","ceph2","Cefoxitin",s,04.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,20.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","amglyc","Amikacin",s,06.12.2017
+"Switzerland East",urine,outpatient,15-44,"Morganella morganii","tetcyc","Doxycycline",r,01.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Streptococcus agalactiae (=group B)","oxazol","Linezolid",s,09.11.2017
+"Switzerland North-West",urine,outpatient,>=65,"Klebsiella pneumoniae","blac+inh","Piperacillin-tazobactam",r,14.11.2017
+"Switzerland North-West",urine,outpatient,15-44,"Klebsiella pneumoniae","ceph4","Cefepime",s,06.12.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,29.11.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","aminopen","Amoxicillin",s,29.11.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,29.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,29.11.2017
+"Switzerland East",other,inpatient,45-64,"Klebsiella oxytoca","ceph4","Cefepime",s,20.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","amglyc","Amikacin",s,29.11.2017
+"Switzerland Central-East",other,outpatient,45-64,"Citrobacter koseri","folinh","Cotrimoxazole",s,15.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Morganella morganii","amglyc","Amikacin",s,13.11.2017
+"Switzerland Central-West",urine,inpatient,45-64,"Escherichia coli","capenem","Imipenem",s,01.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Enterobacter spp.","capenem","Ertapenem",s,04.12.2017
+"Switzerland North-West",urine,outpatient,45-64,"Klebsiella aerogenes","quinolones","Ciprofloxacin",s,08.12.2017
+"Switzerland North-West",urine,inpatient,45-64,"Klebsiella aerogenes","fosmyc","Fosfomycin",s,18.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,21.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,22.11.2017
+"Switzerland Central-East",urine,outpatient,15-44,"Escherichia coli","ceph2","Cefoxitin",s,10.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,17.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,06.12.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","ceph4","Cefepime",r,04.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Pseudomonas aeruginosa","amglyc","Gentamicin",s,21.11.2017
+"Switzerland East",urine,inpatient,>=65,"Klebsiella pneumoniae","fosmyc","Fosfomycin",s,08.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,04.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,18.12.2017
+"Switzerland South",other,outpatient,15-44,"Streptococcus agalactiae (=group B)","stabpen","Antistaphylococcal Penicillins",s,14.11.2017
+"Switzerland North-West",blood,inpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,01.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Klebsiella oxytoca","capenem","Meropenem",s,11.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Klebsiella aerogenes","capenem","Ertapenem",s,22.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",r,10.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Klebsiella pneumoniae","capenem","Ertapenem",s,27.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Enterococcus faecalis","capenem","Imipenem",s,06.12.2017
+"Switzerland East",urine,inpatient,>=65,"Klebsiella pneumoniae","capenem","Imipenem",s,13.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,11.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",r,13.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,07.11.2017
+"Switzerland Central-West",blood,inpatient,45-64,"Streptococcus group bovis","linami","Clindamycin",i,05.12.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","ceph2","Cefoxitin",s,08.11.2017
+"Switzerland East",urine,outpatient,15-44,"Proteus mirabilis","ceph3","Cefotaxime",s,17.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,07.11.2017
+"Switzerland North-West",urine,inpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,05.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,05.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,13.11.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","folinh","Cotrimoxazole",s,07.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Proteus mirabilis","capenem","Ertapenem",s,11.12.2017
+"Switzerland Nord-East",urine,inpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,20.12.2017
+"Switzerland Central-West",other,inpatient,45-64,"Proteus non mirabilis","quinolones","Ciprofloxacin",s,04.12.2017
+"Switzerland North-West",urine,outpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,16.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,22.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","amglyc","Gentamicin",s,01.12.2017
+"Switzerland East",other,outpatient,<15,"Proteus non mirabilis","ceph3","Ceftazidime",s,11.12.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,03.12.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,17.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,17.11.2017
+"Switzerland Nord-East",other,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,19.12.2017
+"Switzerland Nord-East",urine,inpatient,45-64,"Escherichia coli","capenem","Meropenem",s,14.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Citrobacter non koseri","ceph3","Ceftazidime",s,29.11.2017
+"Switzerland Nord-East",other,outpatient,<15,"Enterobacter spp.","ceph3","Cefotaxime",s,20.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,20.11.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,26.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",r,13.11.2017
+"Switzerland East",urine,inpatient,>=65,"Klebsiella pneumoniae","quinolones","Ciprofloxacin",s,08.11.2017
+"Switzerland West",urine,outpatient,<15,"Citrobacter non koseri","capenem","Imipenem",s,12.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Meropenem",s,20.11.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,15.11.2017
+"Switzerland Central-West",other,inpatient,15-44,"Citrobacter koseri","capenem","Ertapenem",s,21.12.2017
+"Switzerland Nord-East",other,outpatient,15-44,"Escherichia coli","capenem","Imipenem",s,10.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,06.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","folinh","Cotrimoxazole",r,20.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,10.11.2017
+"Switzerland East",urine,inpatient,>=65,"Klebsiella pneumoniae","ceph3","Cefotaxime",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,20.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,28.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Klebsiella oxytoca","ceph3","Ceftazidime",s,14.11.2017
+"Switzerland South",urine,outpatient,45-64,"Streptococcus agalactiae (=group B)","maclid","Azithromycin",r,19.12.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Pseudomonas aeruginosa","aminopen","Amoxicillin",r,20.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","folinh","Cotrimoxazole",s,20.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,22.11.2017
+"Switzerland Nord-East",blood,outpatient,>=65,"Enterobacter spp.","capenem","Imipenem",s,16.12.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","capenem","Imipenem",s,11.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","ceph2","Cefoxitin",s,14.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Ertapenem",s,21.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Klebsiella pneumoniae","blac+inh","Amoxicillin-clavulanic acid",r,15.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Meropenem",s,10.11.2017
+"Switzerland East",other,inpatient,15-44,"Escherichia coli","ceph4","Cefepime",s,13.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Klebsiella oxytoca","capenem","Imipenem",s,14.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Klebsiella pneumoniae","folinh","Cotrimoxazole",s,07.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",r,04.12.2017
+"Switzerland Nord-East",urine,inpatient,15-44,"Escherichia coli","capenem","Ertapenem",s,07.11.2017
+"Switzerland Central-West",blood,outpatient,>=65,"Streptococcus pneumoniae","rifmyc","Rifampicin",s,26.11.2017
+"Switzerland Central-West",other,inpatient,15-44,"Enterococcus faecium","glypep","Teicoplanin",s,29.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,13.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","capenem","Meropenem",s,16.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Klebsiella pneumoniae","fosmyc","Fosfomycin",s,07.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","tetcyc","Doxycycline",s,24.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,11.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,16.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",s,21.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Citrobacter non koseri","fosmyc","Fosfomycin",s,15.11.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","aminopen","Amoxicillin",r,23.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Enterococcus faecalis","capenem","Meropenem",s,27.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,24.11.2017
+"Switzerland East",other,inpatient,45-64,"Enterococcus faecalis","nitfur","Nitrofurantoin",s,20.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","nitfur","Nitrofurantoin",r,27.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,01.12.2017
+"Switzerland Central-West",other,outpatient,45-64,"Enterococcus faecium","glypep","Teicoplanin",s,14.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella oxytoca","quinolones","Ciprofloxacin",s,12.12.2017
+"Switzerland North-West",other,inpatient,>=65,"Enterococcus faecalis","amglyc","Gentamicin HLAR",r,28.11.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,01.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Ertapenem",s,05.12.2017
+"Switzerland North-West",urine,outpatient,45-64,"Citrobacter koseri","capenem","Imipenem",s,07.11.2017
+"Switzerland West",urine,outpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,08.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Citrobacter koseri","quinolones","Norfloxacin",s,13.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Proteus mirabilis","ceph3","Ceftazidime",s,07.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,10.11.2017
+"Switzerland North-West",urine,inpatient,45-64,"Citrobacter koseri","capenem","Meropenem",s,10.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","capenem","Imipenem",s,08.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",s,23.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,16.11.2017
+"Switzerland Central-West",urine,inpatient,45-64,"Escherichia coli","quinolones","Ciprofloxacin",s,22.11.2017
+"Switzerland West",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,16.11.2017
+"Switzerland Central-East",urine,outpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",r,07.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,20.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,20.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,07.11.2017
+"Switzerland Central-West",other,outpatient,15-44,"Morganella morganii","fosmyc","Fosfomycin",r,18.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,17.11.2017
+"Switzerland Central-West",other,outpatient,>=65,"Citrobacter koseri","folinh","Cotrimoxazole",s,17.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,20.11.2017
+"Switzerland West",urine,outpatient,45-64,"Escherichia coli","ceph2","Cefoxitin",s,13.12.2017
+"Switzerland East",blood,inpatient,>=65,"Morganella morganii","quinolones","Levofloxacin",s,08.11.2017
+"Switzerland West",urine,outpatient,15-44,"Escherichia coli","capenem","Imipenem",s,13.12.2017
+"Switzerland North-West",other,inpatient,45-64,"Escherichia coli","capenem","Imipenem",s,16.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,04.12.2017
+"Switzerland Central-West",other,outpatient,>=65,"Citrobacter non koseri","folinh","Cotrimoxazole",s,01.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","capenem","Meropenem",s,29.11.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,22.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","folinh","Cotrimoxazole",s,03.12.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Pseudomonas aeruginosa","quinolones","Levofloxacin",s,29.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,10.12.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Klebsiella oxytoca","capenem","Meropenem",s,19.12.2017
+"Switzerland North-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",r,19.12.2017
+"Switzerland Central-West",other,inpatient,>=65,"Campylobacter jejuni","maclid","Azithromycin",s,20.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,19.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","ceph3","Ceftazidime",s,15.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","ceph3","Ceftazidime",s,24.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Klebsiella oxytoca","amglyc","Amikacin",s,03.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,16.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","folinh","Cotrimoxazole",s,21.12.2017
+"Switzerland East",urine,outpatient,45-64,"Enterococcus faecalis","folinh","Cotrimoxazole",r,02.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","ceph3","Cefotaxime",s,27.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Meropenem",s,05.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,12.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Meropenem",s,22.11.2017
+"Switzerland West",urine,inpatient,>=65,"Klebsiella pneumoniae","folinh","Cotrimoxazole",s,25.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,20.12.2017
+"Switzerland Central-West",urine,outpatient,<15,"Escherichia coli","capenem","Meropenem",s,17.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","amglyc","Gentamicin",s,04.12.2017
+"Switzerland East",urine,inpatient,>=65,"Proteus non mirabilis","quinolones","Norfloxacin",s,21.11.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,23.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Enterobacter spp.","folinh","Cotrimoxazole",s,24.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","amglyc","Gentamicin",s,13.11.2017
+"Switzerland Nord-East",other,outpatient,45-64,"Citrobacter koseri","ceph3","Ceftazidime",s,20.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella aerogenes","ceph2","Cefoxitin",r,09.11.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Proteus mirabilis","ceph3","Ceftazidime",s,04.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","amglyc","Tobramycin",s,13.12.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","ceph2","Cefoxitin",s,20.12.2017
+"Switzerland North-West",urine,outpatient,>=65,"Enterococcus faecalis","amglyc","Gentamicin HLAR",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,29.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Klebsiella aerogenes","capenem","Ertapenem",s,15.11.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Enterococcus faecalis","folinh","Cotrimoxazole",r,08.12.2017
+"Switzerland East",urine,outpatient,<15,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",r,09.12.2017
+"Switzerland Central-East",urine,outpatient,45-64,"Enterococcus faecalis","glypep","Vancomycin",s,29.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","folinh","Cotrimoxazole",s,20.12.2017
+"Switzerland North-West",urine,inpatient,15-44,"Proteus mirabilis","capenem","Imipenem",r,10.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Klebsiella pneumoniae","amglyc","Gentamicin",s,04.12.2017
+"Switzerland North-West",urine,inpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,15.11.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","folinh","Cotrimoxazole",s,28.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Proteus non mirabilis","capenem","Imipenem",i,22.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Enterococcus faecalis","quinolones","Ciprofloxacin",s,14.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,22.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,21.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Proteus mirabilis","amglyc","Gentamicin",r,12.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",r,01.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","amglyc","Tobramycin",s,23.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,15.12.2017
+"Switzerland East",urine,outpatient,>=65,"Enterobacter spp.","ceph4","Cefepime",s,20.12.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","amglyc","Gentamicin",r,09.11.2017
+"Switzerland East",urine,inpatient,>=65,"Citrobacter koseri","blac+inh","Amoxicillin-clavulanic acid",s,08.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Enterobacter spp.","ceph3","Ceftazidime",s,09.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,18.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","ceph2","Cefoxitin",s,27.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,13.12.2017
+"Switzerland South",other,outpatient,45-64,"Escherichia coli","folinh","Cotrimoxazole",s,30.11.2017
+"Switzerland East",urine,outpatient,<15,"Enterococcus faecalis","capenem","Imipenem",s,15.12.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","ceph3","Cefotaxime",s,29.11.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","amglyc","Gentamicin",s,24.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,12.12.2017
+"Switzerland North-West",urine,inpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,14.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,10.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,27.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,20.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","fosmyc","Fosfomycin",s,21.12.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,24.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Klebsiella pneumoniae","nitfur","Nitrofurantoin",r,28.11.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,07.11.2017
+"Switzerland Nord-East",other,inpatient,45-64,"Pseudomonas aeruginosa","capenem","Imipenem",s,10.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,07.12.2017
+"Switzerland East",urine,inpatient,>=65,"Proteus mirabilis","ceph4","Cefepime",s,05.12.2017
+"Switzerland East",urine,inpatient,>=65,"Pseudomonas aeruginosa","ceph3","Ceftazidime",r,20.12.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","tetcyc","Doxycycline",s,08.12.2017
+"Switzerland Central-West",urine,outpatient,<15,"Escherichia coli","amglyc","Gentamicin",s,14.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,20.11.2017
+"Switzerland East",urine,outpatient,15-44,"Enterococcus faecalis","capenem","Imipenem",s,29.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Serratia spp.","amglyc","Amikacin",s,13.11.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Enterococcus faecalis","glypep","Vancomycin",s,06.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Achromobacter spp.","quinolones","Ciprofloxacin",i,05.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",r,24.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,10.11.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","ceph4","Cefepime",s,14.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,11.12.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","capenem","Ertapenem",s,16.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","amglyc","Amikacin",s,18.12.2017
+"Switzerland Nord-East",other,outpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,19.12.2017
+"Switzerland North-West",other,outpatient,15-44,"Streptococcus group C/G","glypep","Vancomycin",s,23.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Citrobacter non koseri","blac+inh","Amoxicillin-clavulanic acid",r,09.11.2017
+"Switzerland Central-East",urine,outpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,15.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","ceph4","Cefepime",i,17.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,21.12.2017
+"Switzerland Central-West",urine,outpatient,<15,"Klebsiella pneumoniae","capenem","Meropenem",s,19.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,23.11.2017
+"Switzerland Nord-East",other,outpatient,15-44,"Enterococcus faecalis","tetcyc","Tigecyclin",s,07.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,11.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Enterococcus faecalis","capenem","Meropenem",s,25.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","amglyc","Gentamicin",s,30.11.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","capenem","Ertapenem",s,08.12.2017
+"Switzerland South",urine,outpatient,>=65,"Klebsiella pneumoniae","blac+inh","Amoxicillin-clavulanic acid",s,14.12.2017
+"Switzerland North-West",urine,outpatient,>=65,"Escherichia coli","ceph2","Cefoxitin",s,18.12.2017
+"Switzerland North-West",urine,outpatient,>=65,"Proteus mirabilis","blac+inh","Amoxicillin-clavulanic acid",s,29.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,13.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","fosmyc","Fosfomycin",s,27.11.2017
+"Switzerland Nord-East",other,inpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,06.12.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","ceph3","Cefotaxime",s,28.11.2017
+"Switzerland North-West",urine,inpatient,45-64,"Escherichia coli","capenem","Ertapenem",s,12.11.2017
+"Switzerland East",urine,inpatient,15-44,"Klebsiella pneumoniae","tetcyc","Doxycycline",s,21.11.2017
+"Switzerland Nord-East",blood,outpatient,>=65,"Streptococcus group viridans","maclid","Erythromycin",s,13.11.2017
+"Switzerland South",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,20.11.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,05.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Klebsiella aerogenes","ceph2","Cefoxitin",r,20.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","fosmyc","Fosfomycin",s,05.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","tetcyc","Doxycycline",s,17.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,22.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Enterobacter spp.","capenem","Imipenem",s,19.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Klebsiella pneumoniae","capenem","Ertapenem",s,07.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,14.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",r,04.12.2017
+"Switzerland North-West",other,inpatient,45-64,"Klebsiella pneumoniae","ceph4","Cefepime",s,18.12.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","ceph3","Ceftazidime",r,01.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Enterococcus faecalis","tetcyc","Tigecyclin",s,19.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,16.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Meropenem",s,27.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","fosmyc","Fosfomycin",s,03.12.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,28.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","aminopen","Amoxicillin",s,29.11.2017
+"Switzerland East",blood,inpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,19.12.2017
+"Switzerland Central-West",other,inpatient,15-44,"Salmonella spp.","blac+inh","Piperacillin-tazobactam",s,19.11.2017
+"Switzerland East",urine,outpatient,>=65,"Proteus mirabilis","blac+inh","Amoxicillin-clavulanic acid",s,07.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,26.11.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Pseudomonas aeruginosa","amglyc","Gentamicin",s,08.12.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","quinolones","Ciprofloxacin",s,12.12.2017
+"Switzerland Central-West",urine,inpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,14.12.2017
+"Switzerland Central-West",other,inpatient,>=65,"Streptococcus group viridans","ceph3","Cefotaxime",s,07.12.2017
+"Switzerland Central-West",blood,outpatient,45-64,"Streptococcus group viridans","quinolones","Levofloxacin",i,08.12.2017
+"Switzerland Nord-East",urine,inpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",r,24.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,22.12.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","ceph3","Ceftazidime",s,06.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,14.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,02.12.2017
+"Switzerland Central-West",other,outpatient,>=65,"Citrobacter koseri","amglyc","Amikacin",s,17.11.2017
+"Switzerland East",urine,outpatient,<15,"Enterococcus faecalis","quinolones","Levofloxacin",s,18.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,20.11.2017
+"Switzerland Central-West",other,outpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",s,29.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,22.11.2017
+"Switzerland Geneve area",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,09.12.2017
+"Switzerland East",urine,outpatient,45-64,"Pseudomonas aeruginosa","maclid","Azithromycin",i,10.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,22.11.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","capenem","Meropenem",s,24.11.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,03.12.2017
+"Switzerland South",urine,outpatient,>=65,"Klebsiella oxytoca","quinolones","Norfloxacin",s,23.11.2017
+"Switzerland Central-East",other,outpatient,45-64,"Citrobacter koseri","ceph4","Cefepime",s,15.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,06.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,15.12.2017
+"Switzerland Central-West",blood,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",r,07.12.2017
+"Switzerland Nord-East",urine,inpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,20.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Proteus mirabilis","capenem","Meropenem",s,08.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Klebsiella pneumoniae","ceph3","Ceftazidime",s,11.11.2017
+"Switzerland North-West",urine,outpatient,>=65,"Klebsiella pneumoniae","blac+inh","Piperacillin-tazobactam",s,23.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,11.12.2017
+"Switzerland West",urine,outpatient,15-44,"Escherichia coli","amglyc","Amikacin",s,24.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,16.11.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,04.12.2017
+"Switzerland East",urine,inpatient,>=65,"Pseudomonas aeruginosa","blac+inh","Piperacillin-tazobactam",s,09.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,20.11.2017
+"Switzerland North-West",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,01.12.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",r,09.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",r,15.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,06.12.2017
+"Switzerland East",urine,outpatient,15-44,"Enterococcus faecium","quinolones","Levofloxacin",r,13.12.2017
+"Switzerland South",urine,outpatient,45-64,"Citrobacter koseri","quinolones","Ciprofloxacin",s,15.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,14.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Proteus mirabilis","ceph3","Ceftazidime",s,29.11.2017
+"Switzerland East",urine,outpatient,>=65,"Morganella morganii","fosmyc","Fosfomycin",r,12.12.2017
+"Switzerland North-West",urine,outpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,12.12.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","capenem","Imipenem",s,09.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,16.11.2017
+"Switzerland Central-West",other,inpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,06.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,28.11.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Citrobacter koseri","amglyc","Gentamicin",s,29.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,27.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,09.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,14.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,16.11.2017
+"Switzerland Nord-East",other,inpatient,15-44,"Achromobacter spp.","capenem","Imipenem",i,27.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,05.12.2017
+"Switzerland West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,01.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","folinh","Cotrimoxazole",r,09.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Achromobacter spp.","ceph3","Ceftazidime",s,05.12.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","tetcyc","Doxycycline",s,11.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,19.12.2017
+"Switzerland South",urine,outpatient,45-64,"Escherichia coli","ceph2","Cefoxitin",s,08.11.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",s,27.11.2017
+"Switzerland Central-West",urine,outpatient,<15,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,09.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,01.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Proteus mirabilis","capenem","Ertapenem",s,24.11.2017
+"Switzerland Central-West",other,outpatient,45-64,"Campylobacter jejuni","quinolones","Ciprofloxacin",r,21.11.2017
+"Switzerland North-West",urine,outpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",r,20.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","capenem","Ertapenem",s,20.12.2017
+"Switzerland Central-West",other,inpatient,45-64,"Enterobacter spp.","capenem","Meropenem",s,08.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Enterococcus faecalis","capenem","Imipenem",s,21.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","quinolones","Levofloxacin",s,20.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Citrobacter non koseri","amglyc","Amikacin",s,30.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Morganella morganii","blac+inh","Amoxicillin-clavulanic acid",r,22.11.2017
+"Switzerland East",urine,inpatient,45-64,"Escherichia coli","quinolones","Ciprofloxacin",s,13.12.2017
+"Switzerland East",urine,inpatient,>=65,"Proteus non mirabilis","ceph4","Cefepime",s,21.11.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Acinetobacter spp.","nitfur","Nitrofurantoin",r,23.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,27.11.2017
+"Switzerland South",urine,outpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,18.12.2017
+"Switzerland East",urine,inpatient,45-64,"Escherichia coli","aminopen","Amoxicillin",r,20.12.2017
+"Switzerland North-West",urine,outpatient,45-64,"Citrobacter koseri","blac+inh","Piperacillin-tazobactam",s,20.11.2017
+"Switzerland North-West",urine,inpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,05.12.2017
+"Switzerland North-West",urine,outpatient,<15,"Pseudomonas aeruginosa","folinh","Cotrimoxazole",r,08.11.2017
+"Switzerland Central-West",other,outpatient,15-44,"Klebsiella aerogenes","ceph4","Cefepime",s,01.12.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,07.11.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","ceph4","Cefepime",s,10.11.2017
+"Switzerland East",other,inpatient,45-64,"Escherichia coli","capenem","Ertapenem",s,20.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Proteus mirabilis","amglyc","Amikacin",s,10.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,16.11.2017
+"Switzerland East",urine,inpatient,45-64,"Staphylococcus aureus","maclid","Erythromycin",s,04.12.2017
+"Switzerland Central-West",other,inpatient,45-64,"Staphylococcus aureus","tetcyc","Tigecyclin",s,10.12.2017
+"Switzerland East",urine,outpatient,>=65,"Staphylococcus, coagulase-negative","oxazol","Linezolid",s,12.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Staphylococcus, coagulase-negative","oxazol","Linezolid",s,04.12.2017
+"Switzerland Central-West",other,outpatient,>=65,"Staphylococcus aureus","ceph1","Cefalothin",s,05.12.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Staphylococcus aureus","quinolones","Ciprofloxacin",s,09.11.2017
+"Switzerland Central-East",other,outpatient,15-44,"Staphylococcus aureus","quinolones","Ciprofloxacin",s,14.11.2017
+"Switzerland North-West",other,inpatient,45-64,"Staphylococcus, coagulase-negative","ceph1","Cefalothin",r,11.12.2017
+"Switzerland Nord-East",blood,inpatient,>=65,"Staphylococcus, coagulase-negative","glypep","Vancomycin",s,26.11.2017
+"Switzerland East",urine,inpatient,45-64,"Staphylococcus aureus","oxazol","Linezolid",s,04.12.2017
+"Switzerland West",other,outpatient,45-64,"Staphylococcus aureus","tetcyc","Tigecyclin",s,05.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Staphylococcus aureus","ceph1","Cefalothin",r,12.11.2017
+"Switzerland South",other,outpatient,15-44,"Staphylococcus, coagulase-negative","maclid","Azithromycin",s,23.11.2017
+"Switzerland West",urine,outpatient,15-44,"Staphylococcus saprophyticus","quinolones","Norfloxacin",s,09.12.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Staphylococcus aureus","quinolones","Levofloxacin",s,17.11.2017
+"Switzerland Central-West",other,outpatient,45-64,"Staphylococcus aureus","oxazol","Linezolid",s,30.11.2017
+"Switzerland North-West",other,outpatient,15-44,"Staphylococcus aureus","lippep","Daptomycin",s,27.11.2017
+"Switzerland Central-East",urine,outpatient,15-44,"Staphylococcus aureus","lippep","Daptomycin",s,15.11.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Staphylococcus aureus","maclid","Clarithromycin",s,15.12.2017
+"Switzerland Central-West",other,inpatient,45-64,"Staphylococcus aureus","oxazol","Linezolid",s,14.12.2017
+"Switzerland West",urine,outpatient,>=65,"Staphylococcus, coagulase-negative","glypep","Teicoplanin",s,29.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Staphylococcus aureus","blac+inh","Amoxicillin-clavulanic acid",s,01.12.2017
+"Switzerland North-West",blood,outpatient,45-64,"Staphylococcus, coagulase-negative","linami","Clindamycin",r,29.11.2017
+"Switzerland North-West",blood,outpatient,45-64,"Staphylococcus, coagulase-negative","maclid","Erythromycin",r,29.11.2017
+"Switzerland North-West",blood,outpatient,45-64,"Staphylococcus, coagulase-negative","amglyc","Gentamicin",s,29.11.2017
+"Switzerland North-West",blood,outpatient,45-64,"Staphylococcus, coagulase-negative","aminopen","Amoxicillin",r,29.11.2017
+"Switzerland North-West",blood,outpatient,45-64,"Staphylococcus, coagulase-negative","blac+inh","Amoxicillin-clavulanic acid",r,29.11.2017
+"Switzerland East",other,outpatient,15-44,"Staphylococcus, coagulase-negative","blac+inh","Amoxicillin-clavulanic acid",s,30.11.2017
+"Switzerland East",other,outpatient,>=65,"Staphylococcus, coagulase-negative","stabpen","Antistaphylococcal Penicillins",r,15.11.2017
+"Switzerland Central-West",other,inpatient,15-44,"Staphylococcus aureus","ceph1","Cefalothin",s,15.12.2017
+"Switzerland West",urine,outpatient,>=65,"Staphylococcus aureus","oxazol","Linezolid",s,17.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus, coagulase-negative","glypep","Vancomycin",s,13.12.2017
+"Switzerland Central-West",other,inpatient,15-44,"Staphylococcus, coagulase-negative","maclid","Erythromycin",s,07.11.2017
+"Switzerland Central-West",other,outpatient,>=65,"Staphylococcus aureus","maclid","Erythromycin",s,12.12.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus, coagulase-negative","maclid","Erythromycin",r,06.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Staphylococcus, coagulase-negative","ceph1","Cefalothin",r,15.12.2017
+"Switzerland North-West",urine,inpatient,45-64,"Staphylococcus aureus","tetcyc","Tigecyclin",s,08.11.2017
+"Switzerland Central-West",other,inpatient,45-64,"Staphylococcus, coagulase-negative","glypep","Vancomycin",s,21.11.2017
+"Switzerland Central-West",other,outpatient,15-44,"Staphylococcus aureus","stabpen","Antistaphylococcal Penicillins",s,19.12.2017
+"Switzerland East",urine,outpatient,15-44,"Staphylococcus, coagulase-negative","folinh","Cotrimoxazole",s,27.11.2017
+"Switzerland Nord-East",other,outpatient,45-64,"Staphylococcus aureus","tetcyc","Doxycycline",s,13.11.2017
+"Switzerland Central-West",other,outpatient,>=65,"Staphylococcus aureus","lippep","Daptomycin",s,07.11.2017
+"Switzerland East",urine,inpatient,>=65,"Staphylococcus, coagulase-negative","lippep","Daptomycin",s,03.12.2017
+"Switzerland Nord-East",other,inpatient,15-44,"Staphylococcus aureus","blac+inh","Amoxicillin-clavulanic acid",s,07.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Staphylococcus aureus","ceph1","Cefalothin",s,20.12.2017
+"Switzerland Central-West",other,outpatient,45-64,"Staphylococcus aureus","maclid","Erythromycin",s,30.11.2017
+"Switzerland North-West",urine,outpatient,45-64,"Staphylococcus aureus","fosmyc","Fosfomycin",s,13.11.2017
+"Switzerland East",urine,outpatient,15-44,"Staphylococcus, coagulase-negative","quinolones","Ciprofloxacin",s,15.12.2017
+"Switzerland Nord-East",other,outpatient,45-64,"Staphylococcus aureus","linami","Clindamycin",s,03.12.2017
+"Switzerland East",other,inpatient,15-44,"Staphylococcus aureus","glypep","Vancomycin",s,21.11.2017
+"Switzerland Nord-East",other,inpatient,45-64,"Staphylococcus aureus","lippep","Daptomycin",s,10.11.2017
+"Switzerland Central-West",other,inpatient,45-64,"Staphylococcus, coagulase-negative","oxazol","Linezolid",s,08.11.2017
+"Switzerland Central-West",blood,inpatient,45-64,"Staphylococcus, coagulase-negative","glypep","Vancomycin",s,19.12.2017
+"Switzerland South",urine,outpatient,unknown,"Staphylococcus aureus","amglyc","Gentamicin",s,18.12.2017
+"Switzerland South",other,outpatient,>=65,"Staphylococcus aureus","steant","Fusidic acid",s,04.12.2017
+"Switzerland Nord-East",other,outpatient,45-64,"Staphylococcus aureus","fosmyc","Fosfomycin",s,27.11.2017
+"Switzerland Central-West",other,inpatient,45-64,"Staphylococcus, coagulase-negative","folinh","Cotrimoxazole",s,21.11.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Staphylococcus, coagulase-negative","maclid","Erythromycin",s,07.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Staphylococcus, coagulase-negative","glypep","Vancomycin",s,04.12.2017
+"Switzerland Central-West",other,outpatient,45-64,"Staphylococcus, coagulase-negative","linami","Clindamycin",s,14.11.2017
+"Switzerland Nord-East",blood,inpatient,>=65,"Staphylococcus, coagulase-negative","amglyc","Gentamicin",s,26.11.2017
+"Switzerland Nord-East",blood,inpatient,>=65,"Staphylococcus aureus","steant","Fusidic acid",s,23.11.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Staphylococcus, coagulase-negative","linami","Clindamycin",r,30.11.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Staphylococcus, coagulase-negative","steant","Fusidic acid",s,09.12.2017
+"Switzerland North-West",other,inpatient,>=65,"Staphylococcus aureus","quinolones","Ciprofloxacin",s,24.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus aureus","maclid","Clarithromycin",s,15.12.2017
+"Switzerland Nord-East",blood,outpatient,>=65,"Staphylococcus, coagulase-negative","blac+inh","Amoxicillin-clavulanic acid",s,02.12.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus, coagulase-negative","blac+inh","Amoxicillin-clavulanic acid",r,16.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Staphylococcus, coagulase-negative","linami","Clindamycin",s,22.11.2017
+"Switzerland East",other,inpatient,45-64,"Staphylococcus, coagulase-negative","folinh","Cotrimoxazole",s,21.11.2017
+"Switzerland East",urine,outpatient,45-64,"Staphylococcus, coagulase-negative","folinh","Cotrimoxazole",s,21.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Staphylococcus aureus","maclid","Erythromycin",s,08.12.2017
+"Switzerland East",other,outpatient,45-64,"Staphylococcus aureus","folinh","Cotrimoxazole",s,27.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Staphylococcus saprophyticus","blac+inh","Amoxicillin-clavulanic acid",s,29.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus aureus","rifmyc","Rifampicin",s,07.11.2017
+"Switzerland Central-West",other,outpatient,45-64,"Staphylococcus aureus","glypep","Vancomycin",s,30.11.2017
+"Switzerland North-West",other,inpatient,45-64,"Staphylococcus, coagulase-negative","stabpen","Antistaphylococcal Penicillins",r,06.12.2017
+"Switzerland Central-West",other,outpatient,15-44,"Staphylococcus aureus","rifmyc","Rifampicin",s,20.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus aureus","fosmyc","Fosfomycin",s,11.12.2017
+"Switzerland East",other,inpatient,45-64,"Staphylococcus, coagulase-negative","tetcyc","Tigecyclin",s,21.11.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Staphylococcus saprophyticus","linami","Clindamycin",s,07.12.2017
+"Switzerland Nord-East",other,inpatient,<15,"Staphylococcus aureus","stabpen","Antistaphylococcal Penicillins",s,08.12.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus aureus","glypep","Vancomycin",s,03.12.2017
+"Switzerland East",other,inpatient,45-64,"Staphylococcus aureus","amglyc","Gentamicin",s,18.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus aureus","ceph1","Cefalothin",s,14.11.2017
+"Switzerland East",other,outpatient,15-44,"Staphylococcus aureus","tetcyc","Tigecyclin",s,24.11.2017
+"Switzerland East",other,inpatient,45-64,"Staphylococcus aureus","tetcyc","Tigecyclin",s,15.11.2017
+"Switzerland East",other,inpatient,15-44,"Staphylococcus aureus","rifmyc","Rifampicin",s,17.11.2017
+"Switzerland North-West",other,outpatient,15-44,"Staphylococcus aureus","blac+inh","Amoxicillin-clavulanic acid",s,08.11.2017
+"Switzerland Central-West",other,outpatient,45-64,"Staphylococcus, coagulase-negative","ceph1","Cefalothin",s,16.11.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Staphylococcus, coagulase-negative","fosmyc","Fosfomycin",s,08.12.2017
+"Switzerland East",blood,inpatient,>=65,"Staphylococcus, coagulase-negative","quinolones","Ciprofloxacin",s,21.11.2017
+"Switzerland Central-West",blood,outpatient,>=65,"Staphylococcus, coagulase-negative","maclid","Erythromycin",r,05.12.2017
+"Switzerland North-West",urine,inpatient,45-64,"Staphylococcus aureus","lippep","Daptomycin",s,08.11.2017
+"Switzerland East",other,inpatient,45-64,"Staphylococcus aureus","linami","Clindamycin",s,22.11.2017
+"Switzerland Central-West",other,outpatient,15-44,"Staphylococcus aureus","fosmyc","Fosfomycin",s,11.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Staphylococcus aureus","linami","Clindamycin",s,08.11.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Staphylococcus aureus","folinh","Cotrimoxazole",s,10.11.2017
+"Switzerland West",other,outpatient,>=65,"Staphylococcus, coagulase-negative","quinolones","Ciprofloxacin",s,15.11.2017
+"Switzerland North-West",blood,inpatient,>=65,"Staphylococcus aureus","lippep","Daptomycin",s,08.11.2017
+"Switzerland Central-West",other,outpatient,>=65,"Staphylococcus aureus","blac+inh","Amoxicillin-clavulanic acid",s,28.11.2017
+"Switzerland Central-West",other,inpatient,45-64,"Staphylococcus, coagulase-negative","steant","Fusidic acid",s,10.11.2017
+"Switzerland South",other,outpatient,>=65,"Staphylococcus aureus","glypep","Vancomycin",s,17.11.2017
+"Switzerland East",other,inpatient,45-64,"Staphylococcus aureus","fosmyc","Fosfomycin",s,18.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Staphylococcus, coagulase-negative","amglyc","Gentamicin",s,04.12.2017
+"Switzerland Nord-East",other,inpatient,45-64,"Staphylococcus aureus","ceph1","Cefalothin",r,02.12.2017
+"Switzerland Central-West",other,inpatient,45-64,"Staphylococcus, coagulase-negative","lippep","Daptomycin",s,22.11.2017
+"Switzerland Central-West",other,inpatient,45-64,"Staphylococcus aureus","ceph1","Cefalothin",s,28.11.2017
+"Switzerland East",other,outpatient,>=65,"Staphylococcus, coagulase-negative","maclid","Erythromycin",r,16.11.2017
+"Switzerland Central-West",other,inpatient,45-64,"Staphylococcus, coagulase-negative","blac+inh","Amoxicillin-clavulanic acid",r,10.11.2017
+"Switzerland East",urine,outpatient,45-64,"Staphylococcus, coagulase-negative","blac+inh","Amoxicillin-clavulanic acid",s,07.12.2017
+"Switzerland North-West",other,inpatient,45-64,"Staphylococcus, coagulase-negative","blac+inh","Amoxicillin-clavulanic acid",r,06.12.2017
+"Switzerland Central-West",other,inpatient,15-44,"Staphylococcus aureus","linami","Clindamycin",r,21.12.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Staphylococcus aureus","nitfur","Nitrofurantoin",s,17.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus aureus","linami","Clindamycin",s,03.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Staphylococcus aureus","lippep","Daptomycin",s,05.12.2017
+"Switzerland West",other,outpatient,>=65,"Staphylococcus aureus","blac+inh","Amoxicillin-clavulanic acid",s,02.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Staphylococcus, coagulase-negative","ceph1","Cefalothin",r,14.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus, coagulase-negative","ceph1","Cefalothin",r,07.11.2017
+"Switzerland South",other,outpatient,>=65,"Staphylococcus aureus","amglyc","Amikacin",s,04.12.2017
+"Switzerland North-West",other,outpatient,15-44,"Staphylococcus aureus","linami","Clindamycin",s,08.11.2017
+"Switzerland East",other,outpatient,45-64,"Staphylococcus aureus","maclid","Erythromycin",r,27.11.2017
+"Switzerland Nord-East",other,outpatient,45-64,"Staphylococcus aureus","oxazol","Linezolid",s,06.12.2017
+"Switzerland Central-East",urine,outpatient,15-44,"Staphylococcus aureus","linami","Clindamycin",s,15.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Staphylococcus aureus","glypep","Teicoplanin",s,11.12.2017
+"Switzerland North-West",urine,outpatient,>=65,"Escherichia coli","capenem","Meropenem",s,05.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",s,01.12.2017
+"Switzerland North-West",urine,inpatient,45-64,"Enterococcus faecalis","amglyc","Streptomycin HLAR",r,06.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,09.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,24.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,15.12.2017
+"Switzerland West",urine,outpatient,45-64,"Escherichia coli","capenem","Ertapenem",s,13.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,10.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,20.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","capenem","Ertapenem",s,07.12.2017
+"Switzerland South",urine,outpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,29.11.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","ceph2","Cefoxitin",s,21.11.2017
+"Switzerland Central-West",other,outpatient,>=65,"Pseudomonas aeruginosa","quinolones","Ciprofloxacin",s,14.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,10.11.2017
+"Switzerland West",urine,inpatient,>=65,"Proteus mirabilis","capenem","Imipenem",s,07.12.2017
+"Switzerland North-West",urine,inpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,18.11.2017
+"Switzerland East",urine,inpatient,45-64,"Escherichia coli","ceph3","Cefotaxime",s,27.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,27.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,20.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,25.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","folinh","Cotrimoxazole",s,14.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","amglyc","Amikacin",i,28.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,10.11.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,11.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Enterococcus faecalis","glypep","Vancomycin",s,21.12.2017
+"Switzerland Nord-East",urine,inpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,04.12.2017
+"Switzerland Nord-East",urine,outpatient,unknown,"Enterobacter spp.","blac+inh","Amoxicillin-clavulanic acid",r,28.11.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","ceph3","Ceftazidime",s,20.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,16.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,04.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Klebsiella pneumoniae","ceph4","Cefepime",s,08.11.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","capenem","Ertapenem",s,12.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,17.12.2017
+"Switzerland East",urine,outpatient,>=65,"Proteus mirabilis","aminopen","Amoxicillin",s,13.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","capenem","Ertapenem",s,19.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","tetcyc","Doxycycline",s,13.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","quinolones","Levofloxacin",s,11.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,08.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,27.11.2017
+"Switzerland South",urine,outpatient,>=65,"Klebsiella pneumoniae","blac+inh","Amoxicillin-clavulanic acid",s,12.12.2017
+"Switzerland East",urine,inpatient,>=65,"Klebsiella pneumoniae","folinh","Cotrimoxazole",s,18.12.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","capenem","Meropenem",s,22.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,04.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,20.12.2017
+"Switzerland North-West",urine,outpatient,>=65,"Proteus mirabilis","fosmyc","Fosfomycin",s,07.12.2017
+"Switzerland South",urine,outpatient,>=65,"Klebsiella pneumoniae","ceph2","Cefoxitin",s,13.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","capenem","Imipenem",s,09.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,10.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","quinolones","Levofloxacin",s,26.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,30.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,14.12.2017
+"Switzerland Nord-East",urine,outpatient,<15,"Proteus non mirabilis","tetcyc","Doxycycline",r,28.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","folinh","Cotrimoxazole",s,15.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","blac+inh","Piperacillin-tazobactam",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","fosmyc","Fosfomycin",s,01.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,21.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,15.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,25.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,01.12.2017
+"Switzerland South",urine,outpatient,45-64,"Escherichia coli","quinolones","Ciprofloxacin",s,14.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,03.12.2017
+"Switzerland North-West",other,inpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",r,30.11.2017
+"Switzerland South",urine,outpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,13.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","capenem","Imipenem",s,20.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","quinolones","Levofloxacin",s,19.12.2017
+"Switzerland East",urine,inpatient,>=65,"Enterococcus faecalis","quinolones","Levofloxacin",s,20.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,22.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,13.12.2017
+"Switzerland North-West",urine,outpatient,15-44,"Klebsiella pneumoniae","blac+inh","Amoxicillin-clavulanic acid",s,21.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,20.12.2017
+"Switzerland North-West",urine,outpatient,>=65,"Providencia spp.","capenem","Ertapenem",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,05.12.2017
+"Switzerland Central-West",other,inpatient,>=65,"Enterococcus faecium","folinh","Cotrimoxazole",r,30.11.2017
+"Switzerland North-West",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,08.12.2017
+"Switzerland Nord-East",urine,outpatient,<15,"Escherichia coli","quinolones","Ciprofloxacin",s,07.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,08.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Klebsiella oxytoca","capenem","Ertapenem",s,10.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Serratia spp.","ceph3","Ceftazidime",s,21.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Klebsiella pneumoniae","ceph3","Ceftazidime",s,20.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Enterococcus faecalis","quinolones","Levofloxacin",s,20.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Proteus mirabilis","amglyc","Amikacin",s,20.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Proteus mirabilis","fosmyc","Fosfomycin",s,02.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,28.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","quinolones","Levofloxacin",s,30.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,20.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,07.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,13.12.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,20.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,27.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,07.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Klebsiella pneumoniae","amglyc","Amikacin",s,29.11.2017
+"Switzerland East",urine,outpatient,>=65,"Proteus mirabilis","ceph4","Cefepime",s,19.12.2017
+"Switzerland Central-West",blood,inpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,22.11.2017
+"Switzerland Nord-East",blood,outpatient,>=65,"Klebsiella pneumoniae","ceph3","Ceftazidime",s,01.12.2017
+"Switzerland South",urine,outpatient,>=65,"Providencia spp.","ceph3","Cefotaxime",s,01.12.2017
+"Switzerland Nord-East",urine,outpatient,unknown,"Enterobacter spp.","capenem","Ertapenem",s,28.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,12.12.2017
+"Switzerland West",urine,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,16.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Meropenem",s,14.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,10.11.2017
+"Switzerland North-West",urine,outpatient,>=65,"Enterococcus faecalis","linami","Clindamycin",r,20.12.2017
+"Switzerland West",urine,outpatient,15-44,"Escherichia coli","amglyc","Amikacin",s,29.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Klebsiella pneumoniae","blac+inh","Piperacillin-tazobactam",s,17.11.2017
+"Switzerland Central-West",other,outpatient,45-64,"Klebsiella pneumoniae","amglyc","Amikacin",s,13.11.2017
+"Switzerland Central-East",urine,outpatient,>=65,"Enterobacter spp.","amglyc","Amikacin",s,13.12.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","quinolones","Levofloxacin",s,09.12.2017
+"Switzerland North-West",urine,inpatient,unknown,"Escherichia coli","fosmyc","Fosfomycin",s,29.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,18.12.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,17.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,22.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","folinh","Cotrimoxazole",s,14.12.2017
+"Switzerland East",urine,outpatient,>=65,"Pseudomonas aeruginosa","maclid","Azithromycin",i,28.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,17.12.2017
+"Switzerland West",urine,outpatient,45-64,"Klebsiella oxytoca","capenem","Imipenem",s,14.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,13.11.2017
+"Switzerland North-West",urine,outpatient,>=65,"Providencia spp.","blac+inh","Piperacillin-tazobactam",s,15.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","ceph2","Cefoxitin",s,21.12.2017
+"Switzerland South",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",r,16.11.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","capenem","Meropenem",s,19.12.2017
+"Switzerland North-West",urine,inpatient,unknown,"Escherichia coli","amglyc","Amikacin",s,29.11.2017
+"Switzerland East",other,inpatient,>=65,"Streptococcus pyogenes (=group A)","quinolones","Levofloxacin",s,10.12.2017
+"Switzerland West",urine,outpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,12.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Meropenem",s,02.12.2017
+"Switzerland Central-West",other,inpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,14.12.2017
+"Switzerland Central-West",urine,outpatient,<15,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",r,07.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Klebsiella pneumoniae","amglyc","Amikacin",s,24.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,27.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","amglyc","Amikacin",s,24.11.2017
+"Switzerland East",urine,outpatient,45-64,"Enterococcus faecalis","quinolones","Moxifloxacin",s,24.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,14.12.2017
+"Switzerland East",blood,inpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,18.11.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","folinh","Cotrimoxazole",s,22.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,04.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,21.12.2017
+"Switzerland Central-West",urine,outpatient,<15,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,22.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","ceph2","Cefoxitin",i,12.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Klebsiella pneumoniae","ceph2","Cefoxitin",s,16.11.2017
+"Switzerland Central-West",other,outpatient,>=65,"Escherichia coli","capenem","Meropenem",s,11.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","fosmyc","Fosfomycin",r,13.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Klebsiella pneumoniae","quinolones","Norfloxacin",s,15.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Enterococcus faecalis","folinh","Cotrimoxazole",r,27.11.2017
+"Switzerland East",urine,outpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,04.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Ertapenem",s,21.12.2017
+"Switzerland North-West",urine,inpatient,>=65,"Citrobacter koseri","fosmyc","Fosfomycin",s,06.12.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,22.12.2017
+"Switzerland West",urine,outpatient,45-64,"Morganella morganii","amglyc","Amikacin",s,07.11.2017
+"Switzerland Central-West",other,outpatient,>=65,"Morganella morganii","capenem","Imipenem",s,13.11.2017
+"Switzerland Central-West",urine,inpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,22.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,01.12.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,23.11.2017
+"Switzerland West",urine,outpatient,>=65,"Klebsiella pneumoniae","capenem","Meropenem",s,12.12.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","ceph3","Ceftazidime",s,30.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,26.11.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","ceph2","Cefoxitin",s,30.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","ceph3","Cefotaxime",s,30.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Pseudomonas aeruginosa","amglyc","Amikacin",s,17.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Imipenem",s,19.12.2017
+"Switzerland Central-West",other,outpatient,>=65,"Proteus non mirabilis","nitfur","Nitrofurantoin",r,22.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,07.11.2017
+"Switzerland North-West",other,outpatient,>=65,"Enterococcus faecalis","tetcyc","Tigecyclin",s,28.11.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","tetcyc","Doxycycline",s,16.11.2017
+"Switzerland West",urine,outpatient,45-64,"Escherichia coli","capenem","Ertapenem",s,12.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,20.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,26.11.2017
+"Switzerland West",urine,outpatient,<15,"Escherichia coli","nitfur","Nitrofurantoin",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,29.11.2017
+"Switzerland North-West",other,outpatient,15-44,"Klebsiella oxytoca","capenem","Ertapenem",s,14.12.2017
+"Switzerland South",urine,outpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,22.11.2017
+"Switzerland Central-West",other,outpatient,45-64,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","blac+inh","Amoxicillin-clavulanic acid",r,07.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","capenem","Imipenem",s,15.11.2017
+"Switzerland Nord-East",urine,inpatient,15-44,"Escherichia coli","capenem","Meropenem",s,08.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","ceph4","Cefepime",s,27.11.2017
+"Switzerland Central-West",other,outpatient,15-44,"Morganella morganii","ceph3","Ceftazidime",s,18.12.2017
+"Switzerland East",urine,inpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,05.12.2017
+"Switzerland South",urine,outpatient,>=65,"Proteus mirabilis","quinolones","Levofloxacin",s,13.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Enterococcus faecalis","oxazol","Linezolid",s,13.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,20.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","capenem","Imipenem",s,07.12.2017
+"Switzerland North-West",other,inpatient,45-64,"Acinetobacter spp.","polmyx","Colistin",s,14.11.2017
+"Switzerland East",urine,inpatient,45-64,"Escherichia coli","ceph3","Ceftazidime",s,07.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,06.12.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,08.11.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","amglyc","Gentamicin",s,01.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Enterococcus faecalis","amglyc","Gentamicin HLAR",s,05.12.2017
+"Switzerland North-West",urine,inpatient,45-64,"Enterobacter spp.","ceph4","Cefepime",s,20.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","quinolones","Ciprofloxacin",s,17.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,18.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,21.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,20.11.2017
+"Switzerland Central-West",blood,outpatient,>=65,"Escherichia coli","ceph2","Cefoxitin",s,07.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Pseudomonas aeruginosa","maclid","Azithromycin",i,17.11.2017
+"Switzerland East",urine,outpatient,>=65,"Proteus mirabilis","capenem","Imipenem",i,15.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Klebsiella pneumoniae","fosmyc","Fosfomycin",s,03.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","ceph2","Cefoxitin",s,07.12.2017
+"Switzerland Central-West",blood,outpatient,45-64,"Streptococcus group viridans","maclid","Erythromycin",s,08.12.2017
+"Switzerland East",other,inpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,06.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Citrobacter non koseri","ceph3","Ceftazidime",s,13.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,19.12.2017
+"Switzerland East",urine,outpatient,45-64,"Enterococcus faecalis","capenem","Imipenem",s,24.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Ertapenem",s,22.11.2017
+"Switzerland East",blood,outpatient,>=65,"Klebsiella pneumoniae","amglyc","Gentamicin",s,20.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Klebsiella pneumoniae","quinolones","Ciprofloxacin",s,29.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,19.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,23.12.2017
+"Switzerland West",urine,outpatient,15-44,"Klebsiella pneumoniae","quinolones","Norfloxacin",s,22.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,07.12.2017
+"Switzerland East",urine,outpatient,>=65,"Klebsiella pneumoniae","quinolones","Levofloxacin",s,05.12.2017
+"Switzerland East",urine,outpatient,>=65,"Enterobacter spp.","fosmyc","Fosfomycin",r,20.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",s,03.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",r,14.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Klebsiella pneumoniae","fosmyc","Fosfomycin",s,18.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","nitfur","Nitrofurantoin",r,21.11.2017
+"Switzerland North-West",other,inpatient,>=65,"Klebsiella oxytoca","quinolones","Ciprofloxacin",s,30.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,24.11.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","ceph3","Cefotaxime",s,04.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,21.12.2017
+"Switzerland Central-West",urine,outpatient,<15,"Escherichia coli","ceph2","Cefoxitin",s,29.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Enterococcus faecalis","oxazol","Linezolid",s,04.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","capenem","Meropenem",s,16.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Citrobacter koseri","ceph4","Cefepime",s,08.12.2017
+"Switzerland West",urine,outpatient,>=65,"Proteus mirabilis","ceph4","Cefepime",s,05.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Citrobacter koseri","ceph4","Cefepime",s,01.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Klebsiella oxytoca","amglyc","Amikacin",s,16.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Enterococcus faecalis","linami","Clindamycin",r,09.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,11.12.2017
+"Switzerland East",urine,inpatient,>=65,"Enterococcus faecalis","quinolones","Moxifloxacin",s,13.12.2017
+"Switzerland Nord-East",urine,inpatient,15-44,"Escherichia coli","ceph4","Cefepime",s,14.12.2017
+"Switzerland North-West",urine,outpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,10.11.2017
+"Switzerland Nord-East",urine,inpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,13.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","folinh","Cotrimoxazole",s,11.12.2017
+"Switzerland Central-East",other,outpatient,>=65,"Morganella morganii","ceph4","Cefepime",s,08.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Enterococcus faecalis","folinh","Cotrimoxazole",r,30.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Proteus mirabilis","quinolones","Ciprofloxacin",s,14.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Enterococcus faecalis","quinolones","Moxifloxacin",s,20.12.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","tetcyc","Doxycycline",s,24.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Achromobacter spp.","capenem","Imipenem",i,21.12.2017
+"Switzerland Central-West",other,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,15.12.2017
+"Switzerland East",urine,outpatient,45-64,"Enterococcus faecalis","tetcyc","Tigecyclin",s,01.12.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","fosmyc","Fosfomycin",s,28.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","amglyc","Gentamicin",s,05.12.2017
+"Switzerland North-West",urine,inpatient,>=65,"Klebsiella pneumoniae","blac+inh","Amoxicillin-clavulanic acid",s,20.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",r,12.12.2017
+"Switzerland North-West",urine,inpatient,45-64,"Citrobacter koseri","nitfur","Nitrofurantoin",r,10.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","folinh","Cotrimoxazole",s,15.11.2017
+"Switzerland East",urine,inpatient,>=65,"Pseudomonas aeruginosa","ceph4","Cefepime",s,16.11.2017
+"Switzerland East",urine,outpatient,>=65,"Enterococcus faecalis","linami","Clindamycin",r,27.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Achromobacter spp.","ceph4","Cefepime",i,09.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,26.11.2017
+"Switzerland North-West",other,inpatient,>=65,"Enterococcus faecalis","nitfur","Nitrofurantoin",s,16.11.2017
+"Switzerland Central-West",urine,outpatient,<15,"Escherichia coli","amglyc","Gentamicin",s,20.11.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,13.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,29.11.2017
+"Switzerland North-West",urine,outpatient,>=65,"Proteus mirabilis","quinolones","Ciprofloxacin",s,07.12.2017
+"Switzerland Central-West",urine,inpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,25.11.2017
+"Switzerland Nord-East",urine,inpatient,15-44,"Escherichia coli","capenem","Meropenem",s,17.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,15.12.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","ceph2","Cefoxitin",s,07.11.2017
+"Switzerland Central-West",urine,outpatient,<15,"Enterococcus faecalis","folinh","Cotrimoxazole",r,14.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,09.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","ceph2","Cefoxitin",s,14.11.2017
+"Switzerland Nord-East",other,outpatient,>=65,"Enterococcus faecium","blac+inh","Amoxicillin-clavulanic acid",s,21.12.2017
+"Switzerland South",urine,outpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,15.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,27.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Enterococcus faecalis","tetcyc","Tigecyclin",s,07.12.2017
+"Switzerland North-West",urine,outpatient,45-64,"Proteus mirabilis","blac+inh","Piperacillin-tazobactam",s,07.12.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,15.11.2017
+"Switzerland West",urine,outpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,16.11.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,08.12.2017
+"Switzerland East",urine,outpatient,>=65,"Serratia spp.","amglyc","Gentamicin",s,13.12.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","ceph2","Cefoxitin",s,29.11.2017
+"Switzerland West",urine,outpatient,45-64,"Klebsiella pneumoniae","blac+inh","Amoxicillin-clavulanic acid",s,13.11.2017
+"Switzerland Central-West",other,inpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,19.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Enterococcus faecalis","quinolones","Levofloxacin",r,10.11.2017
+"Switzerland East",urine,inpatient,45-64,"Escherichia coli","fosmyc","Fosfomycin",s,20.12.2017
+"Switzerland East",other,inpatient,>=65,"Pseudomonas aeruginosa","capenem","Meropenem",s,15.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,23.11.2017
+"Switzerland North-West",urine,outpatient,>=65,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,14.12.2017
+"Switzerland East",urine,outpatient,45-64,"Enterococcus faecalis","quinolones","Moxifloxacin",s,02.12.2017
+"Switzerland Central-West",urine,outpatient,<15,"Escherichia coli","quinolones","Norfloxacin",s,29.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,19.12.2017
+"Switzerland Central-West",other,outpatient,45-64,"Escherichia coli","capenem","Ertapenem",s,27.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Enterococcus faecalis","linami","Clindamycin",r,12.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",s,08.11.2017
+"Switzerland East",other,outpatient,45-64,"Pseudomonas aeruginosa","capenem","Meropenem",s,28.11.2017
+"Switzerland West",urine,outpatient,45-64,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,06.12.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,20.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Klebsiella pneumoniae","tetcyc","Doxycycline",s,29.11.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","capenem","Ertapenem",s,21.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,10.11.2017
+"Switzerland North-West",urine,inpatient,45-64,"Pseudomonas aeruginosa","maclid","Azithromycin",i,08.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","amglyc","Tobramycin",s,19.12.2017
+"Switzerland Nord-East",other,inpatient,45-64,"Streptococcus pneumoniae","quinolones","Levofloxacin",r,03.12.2017
+"Switzerland North-West",urine,inpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,19.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",s,18.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","capenem","Imipenem",s,12.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","amglyc","Amikacin",s,09.11.2017
+"Switzerland Central-West",urine,outpatient,<15,"Proteus mirabilis","blac+inh","Piperacillin-tazobactam",s,06.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","quinolones","Norfloxacin",s,11.12.2017
+"Switzerland Central-West",other,outpatient,45-64,"Shigella spp.","capenem","Imipenem",s,21.12.2017
+"Switzerland East",urine,inpatient,>=65,"Acinetobacter spp.","blac+inh","Amoxicillin-clavulanic acid",r,24.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Klebsiella pneumoniae","ceph3","Ceftazidime",s,07.12.2017
+"Switzerland Central-West",other,outpatient,15-44,"Pseudomonas aeruginosa","quinolones","Levofloxacin",r,22.11.2017
+"Switzerland East",urine,inpatient,>=65,"Pseudomonas aeruginosa","capenem","Imipenem",s,20.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Pseudomonas aeruginosa","ceph3","Ceftazidime",s,30.11.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Enterococcus faecalis","linami","Clindamycin",r,22.11.2017
+"Switzerland Nord-East",urine,inpatient,15-44,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,19.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,13.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Citrobacter koseri","amglyc","Amikacin",s,18.12.2017
+"Switzerland Central-West",other,inpatient,15-44,"Streptococcus pyogenes (=group A)","ceph3","Cefotaxime",s,13.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","amglyc","Gentamicin",s,11.12.2017
+"Switzerland Nord-East",urine,inpatient,>=65,"Escherichia coli","quinolones","Ciprofloxacin",r,30.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Proteus mirabilis","quinolones","Norfloxacin",s,20.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","quinolones","Norfloxacin",s,14.11.2017
+"Switzerland Nord-East",other,outpatient,45-64,"Enterobacter spp.","blac+inh","Amoxicillin-clavulanic acid",r,13.11.2017
+"Switzerland East",urine,inpatient,>=65,"Enterococcus faecalis","quinolones","Moxifloxacin",s,08.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,27.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",s,14.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Norfloxacin",s,21.12.2017
+"Switzerland Geneve area",urine,outpatient,45-64,"Enterococcus faecalis","tetcyc","Tigecyclin",s,07.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Enterococcus faecalis","quinolones","Moxifloxacin",s,14.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","amglyc","Gentamicin",s,10.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","ceph4","Cefepime",s,11.12.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,20.12.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,22.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,21.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","folinh","Cotrimoxazole",r,17.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","capenem","Imipenem",s,27.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","tetcyc","Doxycycline",s,14.12.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Klebsiella pneumoniae","amglyc","Amikacin",s,11.11.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","tetcyc","Doxycycline",r,23.11.2017
+"Switzerland West",urine,outpatient,>=65,"Escherichia coli","amglyc","Amikacin",s,21.11.2017
+"Switzerland West",urine,outpatient,15-44,"Escherichia coli","nitfur","Nitrofurantoin",s,08.12.2017
+"Switzerland North-West",urine,outpatient,15-44,"Escherichia coli","capenem","Meropenem",s,20.12.2017
+"Switzerland Nord-East",other,inpatient,15-44,"Enterococcus faecalis","maclid","Clarithromycin",r,27.11.2017
+"Switzerland East",urine,outpatient,45-64,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,09.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","amglyc","Gentamicin",r,20.11.2017
+"Switzerland West",urine,outpatient,15-44,"Escherichia coli","folinh","Cotrimoxazole",r,19.12.2017
+"Switzerland Nord-East",urine,outpatient,15-44,"Escherichia coli","ceph3","Ceftazidime",s,10.11.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","quinolones","Ciprofloxacin",s,12.12.2017
+"Switzerland Central-West",urine,outpatient,<15,"Escherichia coli","folinh","Cotrimoxazole",s,15.11.2017
+"Switzerland Nord-East",blood,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,22.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,15.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","quinolones","Ciprofloxacin",s,14.11.2017
+"Switzerland North-West",urine,inpatient,>=65,"Citrobacter koseri","capenem","Meropenem",s,12.12.2017
+"Switzerland Nord-East",other,inpatient,>=65,"Pseudomonas aeruginosa","ceph4","Cefepime",s,04.12.2017
+"Switzerland West",urine,outpatient,45-64,"Escherichia coli","quinolones","Ciprofloxacin",s,15.11.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Citrobacter non koseri","ceph4","Cefepime",s,09.11.2017
+"Switzerland East",urine,outpatient,>=65,"Enterococcus faecalis","quinolones","Levofloxacin",s,11.12.2017
+"Switzerland Nord-East",urine,inpatient,15-44,"Escherichia coli","ceph2","Cefoxitin",s,01.12.2017
+"Switzerland Central-West",urine,outpatient,45-64,"Escherichia coli","capenem","Ertapenem",s,04.12.2017
+"Switzerland East",urine,inpatient,>=65,"Escherichia coli","fosmyc","Fosfomycin",s,03.12.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","capenem","Meropenem",s,21.11.2017
+"Switzerland Nord-East",urine,outpatient,<15,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,12.12.2017
+"Switzerland East",urine,outpatient,>=65,"Escherichia coli","ceph3","Cefotaxime",s,04.12.2017
+"Switzerland Central-West",other,outpatient,>=65,"Pseudomonas aeruginosa","amglyc","Tobramycin",s,09.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,08.11.2017
+"Switzerland South",urine,outpatient,45-64,"Escherichia coli","nitfur","Nitrofurantoin",s,05.12.2017
+"Switzerland Central-West",other,inpatient,>=65,"Klebsiella oxytoca","blac+inh","Amoxicillin-clavulanic acid",s,24.11.2017
+"Switzerland Central-West",urine,outpatient,15-44,"Escherichia coli","ceph3","Ceftazidime",s,16.11.2017
+"Switzerland Central-West",urine,outpatient,>=65,"Enterococcus faecalis","folinh","Cotrimoxazole",r,27.11.2017
+"Switzerland Central-West",urine,inpatient,>=65,"Escherichia coli","ceph3","Ceftazidime",s,14.12.2017
+"Switzerland Central-West",other,inpatient,>=65,"Escherichia coli","nitfur","Nitrofurantoin",s,19.12.2017
+"Switzerland Nord-East",urine,outpatient,45-64,"Enterococcus faecalis","quinolones","Levofloxacin",s,20.12.2017
+"Switzerland East",urine,inpatient,>=65,"Enterococcus faecalis","capenem","Imipenem",s,14.12.2017
+"Switzerland East",urine,outpatient,45-64,"Enterococcus faecalis","glypep","Vancomycin",s,20.12.2017
+"Switzerland Central-West",urine,outpatient,<15,"Escherichia coli","blac+inh","Piperacillin-tazobactam",s,05.12.2017
+"Switzerland Nord-East",urine,outpatient,>=65,"Escherichia coli","blac+inh","Amoxicillin-clavulanic acid",s,21.11.2017
+"Switzerland North-West",urine,outpatient,45-64,"Escherichia coli","folinh","Cotrimoxazole",s,20.12.2017
