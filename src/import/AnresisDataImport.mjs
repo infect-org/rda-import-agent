@@ -163,7 +163,6 @@ export default class AnresisDataImport {
             throw err;
         }
 
-
         // extract the relevant information from the rows, create a unique id
         // for them so that no row gets imported twice.
         rows = rows.map(row => this.getRecord(row));
@@ -193,7 +192,7 @@ export default class AnresisDataImport {
 
 
 
-        log.info(`importing ${rowCounts} using ${threads.length} threads ...`);
+        log.info(`importing ${rowCounts} rows using ${threads.length} threads ...`);
         await Promise.all(threads.map(async(recordSet) => {
 
             // import one set after another
@@ -226,7 +225,8 @@ export default class AnresisDataImport {
      */
     async updateDataVersion(status) {
         log.info(`changing data version status to '${status}' ...`);
-        await this.httpClient.patch(`${this.storageHost}/infect-rda-sample-storage.data-version/${this.dataVersionId}`)
+        const storageHost = await this.registryClient.resolve('infect-rda-sample-storage');
+        await this.httpClient.patch(`${storageHost}/infect-rda-sample-storage.data-version/${this.dataVersionId}`)
             .expect(200)
             .send({
                 status,
@@ -261,7 +261,6 @@ export default class AnresisDataImport {
         // 95409B77F8E10B6437A3D819E6B0AAFB,    "Switzerland Nord-East",    urine,          outpatient,         45-64,      "Escherichia coli", "ceph4",        "Cefepime", s,                          08.12.2017
         //                                                                                                                                                                                              0123456789
         /* eslint-enable max-len */
-        log(row);
         const sampleDate = `${row[9].substr(6, 4)}-${row[9].substr(3, 2)}-${row[9].substr(0, 2)}T00:00:00Z`;
 
         return {
@@ -304,7 +303,8 @@ export default class AnresisDataImport {
         log.debug(`importing ${rows.length} rows ...`);
 
         const start = Date.now();
-        const response = await this.httpClient.patch(`${this.importHost}/infect-rda-sample-import.anresis-import/${this.dataVersionId}`)
+        const importHost = await this.registryClient.resolve('infect-rda-sample-import');
+        const response = await this.httpClient.patch(`${importHost}/infect-rda-sample-import.anresis-import/${this.dataVersionId}`)
             .expect(200)
             .send(rows);
 

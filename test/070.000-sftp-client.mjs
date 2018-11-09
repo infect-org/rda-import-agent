@@ -6,18 +6,20 @@ import SFTPClient from '../src/client/SFTPClient.mjs';
 
 
 
-section('Docker SFTP Server', (section) => {
+section('SFTP client', (section) => {
+    let server;
+
+
+    section.setup('start the sftp server', async() => {
+        server = new SFTPServer();
+        await server.load();
+        await server.listen();
+    });
 
 
 
     section.test('Connect to the server', async() => {
         section.setTimeout(10000);
-
-
-        section.info(`starting sshd server`);
-        const server = new SFTPServer();
-        await server.load();
-        await server.listen();
 
 
         const client = new SFTPClient({
@@ -27,21 +29,14 @@ section('Docker SFTP Server', (section) => {
             privateKey: server.privateKey,
         });
 
-
-        section.info(`stopping sshd server`);
-        await server.end();
+        const sftpClient = await client.getClient();
+        await sftpClient.end();
     });
 
 
 
-    section.test('Connect to the server', async() => {
+    section.test('get info', async() => {
         section.setTimeout(10000);
-
-
-        section.info(`starting sshd server`);
-        const server = new SFTPServer();
-        await server.load();
-        await server.listen();
 
 
         const client = new SFTPClient({
@@ -57,22 +52,12 @@ section('Docker SFTP Server', (section) => {
         assert(info);
         assert(info.size);
         assert(info.size > 100);
-
-        section.info(`stopping sshd server`);
-        await server.end();
     });
 
 
 
     section.test('download a file', async() => {
         section.setTimeout(10000);
-
-
-        section.info(`starting sshd server`);
-        const server = new SFTPServer();
-        await server.load();
-        await server.listen();
-
 
         const client = new SFTPClient({
             host: 'l.dns.porn',
@@ -102,9 +87,12 @@ section('Docker SFTP Server', (section) => {
 
 
         assert(data);
-        assert.equal(data.toString().substr(0, 20), 'REGION_DESCRIPTION,s');
+        assert.equal(data.toString().substr(0, 20), 'sampleid,REGION_DESC');
+    });
 
-        section.info(`stopping sshd server`);
+
+
+    section.destroy('stop the sftp server', async() => {
         await server.end();
     });
 });

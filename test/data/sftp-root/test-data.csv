@@ -1,4 +1,4 @@
-REGION_DESCRIPTION,sample type,type of origin,age-group,microorganism,ABCLS_ACRONYM,AB_NAME,DELIVERED_QUALITATIVE_RES,DAY_DAY
+sampleid,REGION_DESCRIPTION,sample type,type of origin,age-group,microorganism,ABCLS_ACRONYM,AB_NAME,DELIVERED_QUALITATIVE_RES,DAY_DAY
 "Switzerland Nord-East",urine,outpatient,45-64,"Escherichia coli","ceph4","Cefepime",s,08.12.2017
 "Switzerland West",urine,outpatient,45-64,"Escherichia coli","amglyc","Gentamicin",s,16.11.2017
 "Switzerland East",urine,outpatient,>=65,"Escherichia coli","quinolones","Levofloxacin",s,07.11.2017

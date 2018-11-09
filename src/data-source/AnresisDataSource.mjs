@@ -89,7 +89,7 @@ export default class AnresisDataSource {
             });
 
             stream.on('error', reject);
-            stream.on('end', () => { console.log(buffer.toString());
+            stream.on('end', () => {
                 resolve(buffer);
             });
         });

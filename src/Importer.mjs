@@ -1,7 +1,7 @@
+import log from 'ee-log';
 import RegistryClient from '@infect/rda-service-registry-client';
 import AnresisDataImport from './import/AnresisDataImport.mjs';
 import AnresisDataSource from './data-source/AnresisDataSource.mjs';
-
 
 
 
@@ -80,35 +80,52 @@ export default class Importer {
         importer,
         dataSource,
     }) {
-        const stream = await dataSource.getStream();
-        let data;
 
         // create a data version
         await importer.initialize();
 
+        const stream = await dataSource.getStream();
 
         // import the data in chunks. wrap it in a promise since the stream
         // doesn't support promises natively
         await new Promise((resolve, reject) => {
+            let isFirstChunk = true;
+            let data;
+
+            // if there happens an error inside the data event of the stream, it is 
+            // passed ti the stream.destroy method. that method triggers the close event
+            // before the error event. thats the reason we have manually to check if an 
+            // error happend in the close event, sothat no data is processed there anymore.
+            let streamError = false;
+
+
             stream.on('data', (chunk) => {
 
                 // pause until we've ingested the data
                 stream.pause();
 
                 if (!data) data = chunk;
-                else data += chunk;
+                else data = Buffer.concat([data, chunk]);
 
                 // get all lines up to the last line break, import them, store the rest
-                // in the data variable (as buffer)
+                // in the data buffer
                 const lines = data.toString().split('\n');
-                const importableLines = lines.slice(0, lines.length - 1);
-                data = Buffer.from(lines[lines.length-1]);
+                let importableLines = lines.slice(0, lines.length - 1);
+                data = Buffer.from(lines[lines.length - 1]);
+
+                // remove the first row, it contains the labels
+                if (isFirstChunk) {
+                    isFirstChunk = false;
+                    importableLines = importableLines.slice(1);
+                }
 
                 importer.importData(importableLines.join('\n')).then(() => {
 
                     // continue consuming data
                     stream.resume();
                 }).catch((err) => {
+                    streamError = true;
+
                     // kill the stream, we cannot recover from this!
                     err.message = `Failed to import data, aborting import: ${err.message}`;
                     stream.destroy(err);
@@ -116,21 +133,29 @@ export default class Importer {
             });
 
 
-            stream.on('end', () => {
-                // ingest the remaining data
-                importer.importData(data.toString()).then(resolve).catch((err) => {
+            stream.on('close', () => {
 
-                    // kill the stream, we cannot recover from this!
-                    err.message = `Failed to import data, aborting import: ${err.message}`;
-                    reject(err);
-                });
+                // do the normal data processing only if there weren't any errors
+                if (!streamError) {
+
+                    // ingest the remaining data
+                    importer.importData(data.toString()).then(resolve).catch((err) => {
+
+                        // kill the stream, we cannot recover from this!
+                        err.message = `Failed to import data, aborting import: ${err.message}`;
+                        reject(err);
+                    });
+                }
             });
 
 
-            stream.on('error', reject);
+            stream.on('error', (err) => {
+                streamError = true;
+                reject(err);
+            });
         }).catch(async(err) => {
             await importer.failDataVersion().catch((secondErr) => {
-                err.message = `While failing the data version because the stream failed an error occured: ${secondErr.message}. Original error: ${err.message}`;
+                err.message = `While failing the data version because the stream failed: ${secondErr.message}. Original error: ${err.message}`;
                 throw err;
             });
         });

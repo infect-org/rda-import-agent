@@ -1,7 +1,5 @@
+import SFTPClient from '@distributed-systems/sftp-client';
 import Client from './Client.mjs';
-import SFTPReadStream from './SFTPReadStream.mjs';
-import ssh2 from 'ssh2';
-const SFTPClient = ssh2.Client;
 
 
 /**
@@ -36,17 +34,12 @@ export default class FTPDownloader extends Client {
      */
     async getInfo(file) {
         const client = await this.getClient();
-        const stats = await new Promise((resolve, reject) => {
-            client.stat(file, (err, stats) => {
-                if (err) reject(err);
-                else resolve(stats);
-            });
-        });
-        client.end();
+        const stats = await client.stat(file);
+        await client.end();
 
         return {
             size: stats.size,
-            modificationDate: new Date(stats.modifyTime),
+            modificationDate: new Date(stats.mtime),
         };
     }
 
@@ -60,30 +53,18 @@ export default class FTPDownloader extends Client {
      */
     async download(file) {
         const client = await this.getClient();
-
-        // see https://github.com/jyu213/ssh2-sftp-client/issues/37
-        // a quality piece of software! angry lina is ranting
-        const readStream = await client.createReadStream(file, {
-            highWaterMark: 65535,
-        });
-
+        const readStream = await client.createReadStream(file);
 
         // make sure the client is closed when not used anymore
-        readStream.on('error', () => {console.log('error');
+        readStream.on('error', () => {
             client.end();
         });
 
-        readStream.on('data', () => {console.log('data');
-
-        });
-
-        readStream.on('end', () => {console.log('end');
+        readStream.on('close', () => {
             client.end();
         });
 
-        //readStream.resume();
-
-        return readStream; //new SFTPReadStream(readStream);
+        return readStream;
     }
 
 
@@ -95,23 +76,13 @@ export default class FTPDownloader extends Client {
     async getClient() {
         const client = new SFTPClient();
 
-        return new Promise((resolve, reject) => {
-            client.on('error', reject);
-            client.on('ready', () => {
-
-                // get the sftp channel
-                client.sftp((err, sftpClient) => {
-                    if (err) reject(err);
-                    else resolve(sftpClient);
-                });
-            });
-
-            client.connect({
-                host: this.host,
-                username: this.user,
-                privateKey: this.privateKey,
-                port: this.port,
-            });
+        await client.connect({
+            host: this.host,
+            username: this.user,
+            privateKey: this.privateKey,
+            port: this.port,
         });
+
+        return client;
     }
 }

@@ -7,16 +7,18 @@ import AnresisDataSource from '../src/data-source/AnresisDataSource.mjs';
 
 
 section('Anresis Data Source', (section) => {
+    let server;
+
+
+    section.setup('start the sftp server', async() => {
+        server = new SFTPServer();
+        await server.load();
+        await server.listen();
+    });
 
 
     section.test('Download a file', async() => {
         section.setTimeout(10000);
-
-
-        section.info(`starting sshd server`);
-        const server = new SFTPServer();
-        await server.load();
-        await server.listen();
 
 
         const dataSource = new AnresisDataSource({
@@ -35,9 +37,6 @@ section('Anresis Data Source', (section) => {
 
         assert(file);
         assert(file.length > 100);
-
-        section.info(`stopping sshd server`);
-        await server.end();
     });
 
 
@@ -45,12 +44,6 @@ section('Anresis Data Source', (section) => {
 
     section.test('Get file hash', async() => {
         section.setTimeout(10000);
-
-
-        section.info(`starting sshd server`);
-        const server = new SFTPServer();
-        await server.load();
-        await server.listen();
 
 
         const dataSource = new AnresisDataSource({
@@ -69,8 +62,11 @@ section('Anresis Data Source', (section) => {
 
         assert(hash);
         assert.equal(hash.length, 64);
+    });
 
-        section.info(`stopping sshd server`);
+
+
+    section.destroy(async() => {
         await server.end();
     });
 });

@@ -8,6 +8,7 @@ import Service from '../index.mjs';
 
 
 section('Import', (section) => {
+    let server;
     let sm;
 
     section.setup(async() => {
@@ -17,24 +18,21 @@ section('Import', (section) => {
 
         await sm.startServices('rda-service-registry');
         await sm.startServices('api', 'infect-rda-sample-importer', 'infect-rda-sample-storage');
+
+        server = new SFTPServer();
+        await server.load();
+        await server.listen();
     });
 
 
 
     section.test('Execute the import', async() => {
-        section.setTimeout(30000);
+        section.setTimeout(1200000);
         const service = new Service();
-
         await service.load();
-
-        section.info(`starting sshd server`);
-        const server = new SFTPServer();
-        await server.load();
-        await server.listen();
 
 
         // Execute job 0
-        section.info(`importing test data`);
         const { scheduler } = service;
         await scheduler.runJobAtIndex(0, {
             privateKey: server.privateKey,
@@ -49,5 +47,6 @@ section('Import', (section) => {
 
     section.destroy(async() => {
         await sm.stopServices();
+        await server.end();
     });
 });

@@ -10,7 +10,7 @@ module.exports = {
             host: 'l.dns.porn',
             port: 2222,
             user: 'foo',
-            file: 'share/test-data.csv',
+            file: 'share/test-data.csv.2',
         },
     }],
 };
